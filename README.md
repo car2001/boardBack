@@ -29,7 +29,6 @@ Permite:
 
 ```bash
 git clone [URL_DEL_REPO]
-cd backend
 ```
 
 **Instalar dependencias:**
